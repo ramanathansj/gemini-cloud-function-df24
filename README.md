@@ -1,5 +1,5 @@
 # gemini-cloud-function-df24
- gemini pdf extraction cloud function
+ Dreamforce 2024 demo - Gemini Prompt Service to extract invovice details as JSON from PDF document
 
 1. Sign up for free GCP account 
 https://cloud.google.com/free
@@ -36,4 +36,4 @@ Note down the URL of cloud function for testing and updating salesforce custom s
 
 7. Use pdf document in /data and base64 encoded to test above pdf extraction prompt service.
 
-
+8. For deploying Salesforce Dreamforce 24 demo repo refer https://github.com/ramanathansj/advanced-prompt-engineering-df2024
