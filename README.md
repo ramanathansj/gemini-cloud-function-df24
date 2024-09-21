@@ -24,7 +24,7 @@ keypath=gcp-service-account-jwt.json  or enter vertex API key
 
 gcloud functions deploy pdf-extract-v3 \                    
     --runtime=python312 \
-    --region=us-west1 \
+    --region=TODO-Your-App-Zone \
     --source=. \
     --entry-point=prompt_pdf_to_text \
     --trigger-http \
