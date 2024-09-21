@@ -1,4 +1,4 @@
-# gemini-cloud-function-df24
+# gemini-cloud-function-dreamforce-2024-demo
  Dreamforce 2024 demo - Gemini Prompt Service to extract invovice details as JSON from PDF document
 
 1. Sign up for free GCP account 
